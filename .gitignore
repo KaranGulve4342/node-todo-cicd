@@ -48,9 +48,6 @@ jspm_packages/
 *.sublime-workspace
 *.sublime-project
 
-# Docker files
-Dockerfile
-docker-compose.yml
 
 # Misc
 deb
